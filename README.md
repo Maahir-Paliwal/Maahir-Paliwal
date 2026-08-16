@@ -89,7 +89,7 @@ My coursework and interests have led me to make some cool projects:
 
 ## Contact
 
-I'm always interested in challenging software engineering, machine learning, and research problems.
+Feel free to reach out and talk to me about software engineering, machine learning, and research problems.
 
 **LinkedIn:** [Maahir Paliwal]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/maahir-paliwal/))
 **Email:** maahir.paliwal@mail.mcgill.ca
