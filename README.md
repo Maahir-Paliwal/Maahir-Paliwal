@@ -2,7 +2,7 @@
 
 **Software Engineering @ McGill University**
 
-I build software at the intersection of **machine learning, data-intensive systems, and applied research**. I'm particularly interested in problems where strong software engineering meets technically challenging domains such as financial markets, machine learning, and scientific computing.
+I build software in **machine learning, data-intensive systems, and applied research**. I love problems where strong software engineering meets technically challenging domains like financial markets, machine learning, and scientific computing.
 
 [LinkedIn](https://www.linkedin.com/in/maahir-paliwal/)
 
