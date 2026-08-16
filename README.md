@@ -48,8 +48,6 @@ The project translates exchange and regulatory rules into a reproducible data pi
 
 ## Other Work
 
-### Academic Projects
-
 My coursework and interests have led me to make some cool projects:
 
 * **[CESB]** — An ensemble learning image classification model that placed me top 3 in a master's machine learning class as a 3rd year Undergraduate student
